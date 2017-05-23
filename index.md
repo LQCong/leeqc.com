@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## 这是一个测试页面
 
-You can use the [editor on GitHub](https://github.com/LQCong/leeqc.com/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+这是一个静态的测试页面
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+看到此文字说明页面打开成功！
 
 ### Markdown
 
